@@ -21,8 +21,19 @@ This website is designed to help patients understand complex medical images and 
 - Extracts and displays the pill's name, dosage, and usage.
 - Explains the pill's purpose and relevant precautions.
 
-Check out our demo video
-https://drive.google.com/file/d/1xEy3X5tCQ74A92Qw5FqSQo62vle27kOM/view?usp=sharing
+Check out our [demo video](https://drive.google.com/file/d/1xEy3X5tCQ74A92Qw5FqSQo62vle27kOM/view?usp=sharing).
+
+Alternatively, watch it directly below:
+
+<video width="800" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1xEy3X5tCQ74A92Qw5FqSQo62vle27kOM" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Project Report
+For detailed information about the project, refer to the [Project Report](https://drive.google.com/file/d/1ex1dqJswvWu7crkWTsySBZs1pWQNsIoB/view?usp=drive_link).
 
 ---
 
@@ -101,15 +112,18 @@ The application will open in your browser.
 
 ## File Structure
 ```
-Brain_Tumor_Detection_CNN/
-|-- app.py                    # Streamlit application script
-|-- tumor_detection.py         # Script for tumor detection
-|-- pill_detector.py           # Script for pill detection
-|-- models/                    # Pre-trained models for both applications
+AI_Tumor_Detection_&_AI_Pill_Detector/
+|-- src/
+|   |-- app.py                # Streamlit application script
+|   |-- tumor_detection.py     # Script for tumor detection
+|   |-- pill_detector.py       # Script for pill detection
+|-- demo/
+|   |-- demo_video.mp4         # Demo video for the project
+|-- report/
+|   |-- project_report.pdf     # Detailed project report
 |-- requirements.txt           # Dependencies
-|-- data/                      # Placeholder for input data
-|-- outputs/                   # Placeholder for results and reports
 |-- README.md                  # Documentation
+|-- LICENSE                    # License information
 ```
 
 ---
@@ -124,6 +138,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-
 ## Contact
 For any questions or issues, please create an issue in this repository or contact the author via GitHub.
+
+GitHub Repository: [AI_Tumor_Detection_&_AI_Pill_Detector](https://github.com/Vishal-V-D/AI_Tumor_Detection_-_AI_Pill-Detector.git)
