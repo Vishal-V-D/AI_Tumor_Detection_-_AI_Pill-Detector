@@ -21,12 +21,12 @@ This website is designed to help patients understand complex medical images and 
 - Extracts and displays the pill's name, dosage, and usage.
 - Explains the pill's purpose and relevant precautions.
 
-Check out our [demo video](https://github.com/Vishal-V-D/AI_Tumor_Detection_-_AI_Pill-Detector/blob/7ac53525a80e69a3df246820f9411c695fd6cb19/demo/video.mp4).
+Check out our [demo video](https://drive.google.com/file/d/1xEy3X5tCQ74A92Qw5FqSQo62vle27kOM/view?usp=sharing).
 
 Alternatively, watch it directly below:
 
 <video width="800" controls>
-  <source src="https://github.com/Vishal-V-D/AI_Tumor_Detection_-_AI_Pill-Detector/blob/7ac53525a80e69a3df246820f9411c695fd6cb19/demo/video.mp4?raw=true" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1xEy3X5tCQ74A92Qw5FqSQo62vle27kOM" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -118,7 +118,7 @@ AI_Tumor_Detection_&_AI_Pill_Detector/
 |   |-- tumor_detection.py     # Script for tumor detection
 |   |-- pill_detector.py       # Script for pill detection
 |-- demo/
-|   |-- video.mp4              # Demo video for the project
+|   |-- demo_video.mp4         # Demo video for the project
 |-- report/
 |   |-- project_report.pdf     # Detailed project report
 |-- requirements.txt           # Dependencies
